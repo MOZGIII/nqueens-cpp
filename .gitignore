@@ -1,0 +1,7 @@
+# Generic Windows Binaries
+*.exe
+
+# Exact build targets for UNIXes
+main
+hillclimbing
+queens-test-main
